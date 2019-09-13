@@ -1,0 +1,39 @@
+.list-group-item a {
+  color: white;
+  background-color: red;
+  marg
+}
+
+.item{
+    display:flex;
+    justify-content:space-between;
+    border:solid 1px lightgray;
+    color: green;
+
+}
+.item:hover{
+    background-color: lightgray;
+    color: white;
+}
+.myitem{
+    text-decoration: none;
+    list-style-type: none;
+    padding: 16px;
+}
+.myitem:hover{
+
+    color: white
+}
+
+.mybtn{
+    color: white;
+    padding: 20px;
+    background-color: red;
+    font-weight: bolder;
+}
+.flash{
+    color: rgb(27, 133, 27);
+}
+body{
+    background-color: lightgray;
+}
